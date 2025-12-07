@@ -1,0 +1,1 @@
+These are Jupyter notebook files for EDA of different types of dataset analysis. The aim of the exercise was to get hands-on practice about Data Analysis techniques and use them to derive insights from four different types of datasets.
